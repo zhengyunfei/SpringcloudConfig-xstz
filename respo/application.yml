@@ -9,11 +9,6 @@ security:
   basic:
     enabled: false
 spring:
-  cloud.
-    config:
-      label:master
-      profile:dev
-      uri:http://localhost:8888
   thymeleaf:
     mode: LEGACYHTML5
     cache: false
