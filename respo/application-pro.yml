@@ -1,5 +1,5 @@
 xstz:
-  uploadPath: /var/uploaded_files/
+  uploadPath: /home/zhengyunfei/uploaded_files/
 logging:
   level:
     root: error
