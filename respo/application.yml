@@ -59,6 +59,6 @@ ueditor:
   secret-key: 7GDHZXb9WLD1WY84BOxvSfBJO3V1hGQSS6H0wik3
   zone: zone1
   bucket: xstz
-  base-url: http://pcrf7oayd.bkt.clouddn.com
+  base-url: http://xstz.01time.cn
   upload-dir-prefix: ueditor/img/
   
